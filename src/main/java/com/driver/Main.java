@@ -6,6 +6,7 @@ public class Main {
 //        obj.meth();
         System.out.println(obj.meth());
     }
+
 }
 class A{
    String meth(){
